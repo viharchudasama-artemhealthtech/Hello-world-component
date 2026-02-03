@@ -295,7 +295,7 @@ Build artifacts will be stored in the `dist/` directory.
 
 This project is for educational purposes.
 
-## 👤 Author
+## 👤 Vihar
 
 **Piyush**
 
