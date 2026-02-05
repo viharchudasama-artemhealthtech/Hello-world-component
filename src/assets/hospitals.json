@@ -1,0 +1,35 @@
+[
+    {
+        "name": "City General Hospital",
+        "hostname": "city-general-hospital",
+        "category": "General",
+        "address": "123 Healthcare Blvd",
+        "city": "Metropolis",
+        "state": "NY",
+        "zip": "10001",
+        "website": "http://www.citygeneral.com",
+        "phone": "+1-555-0199"
+    },
+    {
+        "name": "Healing Hands Medical Center",
+        "hostname": "healing-hands-medical-center",
+        "category": "Medical Center",
+        "address": "456 Wellness Way",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62704",
+        "website": "http://www.healinghands.com",
+        "phone": "+1-555-0200"
+    },
+    {
+        "name": "Sunrise Community Hospital",
+        "hostname": "sunrise-community-hospital",
+        "category": "Community",
+        "address": "789 Hope Drive",
+        "city": "Sunnyvale",
+        "state": "CA",
+        "zip": "94087",
+        "website": "http://www.sunrisehospital.org",
+        "phone": "+1-555-0301"
+    }
+]
